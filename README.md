@@ -5,7 +5,7 @@ This project is an end-to-end AI system that analyzes brain MRI images and perfo
 - Tumor Detection – Tumor vs No Tumor
 - Tumor Classification – Predict tumor type
 - Tumor Segmentation – Highlight exact tumor region
-- 
+
 Designed to assist medical professionals with faster, reliable, and automated diagnosis.
 
 ## Features
